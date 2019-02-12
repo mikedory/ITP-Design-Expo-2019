@@ -1,0 +1,13 @@
+{
+    "aws-access-key": "AKIAJO432SVIF2QUBP3A",
+    "aws-bucket-name": "designexpo2019.dory.me",
+    "aws-bucket-website": "designexpo2019.dory.me.s3-website-us-east-1.amazonaws.com",
+    "fingerprint": [
+        "js",
+        "css"
+    ],
+    "optimize": [
+        "css"
+    ],
+    "prettify": true
+}

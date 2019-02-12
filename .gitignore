@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+
+# cactus things
+.build
+.deploy
+
+# virtualenv things
+env/
+venv/
